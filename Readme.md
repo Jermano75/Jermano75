@@ -48,11 +48,11 @@ C# ██████████████████░░░░░░░ 7
 
 <!-- TODO-IST:START -->
 
-🏆 tornar me um full-stack web - developer
+🏆 Desenvolver a minha propria rede em casa
 
 🌸 Criar um negocio revelocionario 
 
-✅ Conhecimento em > 5 linguagens de programação.
+✅ Desenvolver os meus proprios projectos.
 
 ⏳ Ter tempo para desenvolver e instalar a minha smart home.
 
